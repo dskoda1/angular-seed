@@ -3,4 +3,4 @@ logs/*
 tmp
 .DS_Store
 .idea
-/node_modules/bower/node_modules/update-notifier/
+node_modules/bower/node_modules/update-notifier/
